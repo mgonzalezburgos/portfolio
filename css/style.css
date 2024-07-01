@@ -181,7 +181,7 @@ button {
 }
 
 .btn2 {
-  background: #bb26e9;
+  background: #20C863;
   color: white;
 }
 
@@ -193,7 +193,7 @@ button {
 
 .btn2:hover {
   background: white;
-  color: #20C863;
+  color: #bb26e9;
   border: 2px solid #20C863;
 }
 
