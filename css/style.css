@@ -409,7 +409,7 @@ p {
 
 .services hr {
   width: 30px;
-  background: #bb26e9;
+  background: #20C863;
   border: 2px solid #20C863;
   margin-top: 10px;
 }
@@ -581,7 +581,7 @@ circle p {
   bottom: 10px;
   left: 17px;
   right: 0px;
-  background-color: #20C863;
+  background-color: #bb26e9;
   overflow: hidden;
   width: 90%;
   height: 90%;
