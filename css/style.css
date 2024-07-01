@@ -398,7 +398,7 @@ p {
   left: 40px;
   width: 70px;
   height: 70px;
-  background: #bb26e9;
+  background: #20C863;
   padding: 10px;
   border-radius: 50%;
 }
@@ -409,7 +409,7 @@ p {
 
 .services hr {
   width: 30px;
-  background: #20C863;
+  background: #bb26e9;
   border: 2px solid #20C863;
   margin-top: 10px;
 }
