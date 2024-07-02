@@ -72,13 +72,13 @@ header {
 }
 
 .nav-link:hover {
-  color: #20C863;
-  border-bottom: 2px solid #20C863;
+  color: #bb26e9;
+  border-bottom: 2px solid #bb26e9;
 }
 
 .nav-link.active {
-  color: #20C863;
-  border-bottom: 2px solid #20C863;
+  color: #bb26e9;
+  border-bottom: 2px solid #bb26e9;
 }
 
 .nav-logo {
