@@ -194,7 +194,7 @@ button {
 .btn2:hover {
   background: white;
   color: #bb26e9;
-  border: 2px solid #20C863;
+  border: 2px solid #bb26e9;
 }
 
 p {
@@ -227,7 +227,7 @@ p {
 }
 
 .heading span {
-  color: #20C863;
+  color: #bb26e9;
 }
 
 .top {
@@ -313,7 +313,7 @@ p {
 /*---------about--------*/
 .btn3 {
   background: none;
-  border: 2px solid #20C863;
+  border: 2px solid #bb26e9;
   color: #bb26e9;
   padding: 15px 50px;
 }
@@ -398,7 +398,7 @@ p {
   left: 40px;
   width: 70px;
   height: 70px;
-  background: #20C863;
+  background: #bb26e9;
   padding: 10px;
   border-radius: 50%;
 }
@@ -410,7 +410,7 @@ p {
 .services hr {
   width: 30px;
   background: #bb26e9;
-  border: 2px solid #20C863;
+  border: 2px solid #bb26e9;
   margin-top: 10px;
 }
 
