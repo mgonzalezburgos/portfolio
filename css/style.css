@@ -304,7 +304,7 @@ p {
 }
 
 .home .icon i:hover {
-  background: #0ecca3;
+  background: #ffe026;
   cursor: pointer;
   border: none;
 }
@@ -964,7 +964,7 @@ input, textarea {
 }
 
 .social_media .box span:hover {
-  color: #FFC514;
+  color: #0ecca3;
 }
 
 /*---------social_media--------*/
