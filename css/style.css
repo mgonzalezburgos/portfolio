@@ -716,7 +716,7 @@ circle p {
 
 .timeline .content:nth-child(5) .icon,
 .timeline .content:nth-child(3) .icon {
-  background: #20C863;
+  background: #bb26e9;
 }
 
 .content-1 .icon {
@@ -741,7 +741,7 @@ circle p {
 
 .timeline .content:nth-child(5) span,
 .timeline .content:nth-child(3) span {
-  color: #20C863;
+  color: #bb26e9;
 }
 
 .timeline .content {
@@ -787,7 +787,7 @@ circle p {
 }
 
 .Testimonials i {
-  color: #20C863;
+  color: #bb26e9;
   font-size: 80px;
 }
 
@@ -799,7 +799,7 @@ circle p {
 }
 
 .Testimonials h4 {
-  color: #20C863;
+  color: #bb26e9;
   font-size: 20px;
 }
 
@@ -850,7 +850,7 @@ circle p {
 }
 
 .blog .text p {
-  color: #20C863;
+  color: #bb26e9;
   font-size: 18px;
 }
 
@@ -1015,7 +1015,7 @@ footer .icon i {
 
 footer .box i:hover,
 footer .box li:hover {
-  color: #20C863;
+  color: #bb26e9;
   opacity: 1;
 }
 
